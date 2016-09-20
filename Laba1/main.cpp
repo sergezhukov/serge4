@@ -6,5 +6,6 @@ void main()
 	u = t/(x^3+1)/(1-exp(k-4));
 	std::cout << "t=" << t;
 	std::cout << "  u=" << u;
+	std::cout << "xzxz";
 	system("PAUSE");
 }
